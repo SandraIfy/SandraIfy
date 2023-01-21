@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraIfy
 - 👀 I’m interested in learning data analytics 
-- 🌱 I’m currently learning to use SQL and python to analyze health data 
+- 🌱 I’m currently learning to use SAS and python to analyze health data 
 - 💞️ I’m looking to collaborate on data analytics capstone projects with other students 
 - Send me a message to connect!
 
